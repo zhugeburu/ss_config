@@ -7,3 +7,4 @@
 4. pac.txt					:  shadowsocks filtering rule configuration file which is set in Windows platform (by setting local PAC)
 5. pac.pca				:  not used in ss
 5. gui-config.json		:  shadowsocks gui configuration file 
+6. Android shadowsocks apk : https://github.com/shadowsocks/shadowsocks-android
