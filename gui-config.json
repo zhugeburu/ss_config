@@ -1,10 +1,10 @@
 {
 "configs" : [
   {
-"server" : "45.78.55.103",
-"server_port" : 6363,
-"password" : "bgEzTX4FYD",
-"method" : "aes-256-cfb",
+"server" : "XXXXXXXXX",
+"server_port" : 1111,
+"password" : "XXXXXXXXX",
+"method" : "XXXXXXXXX",
 "remarks" : ""}
 
 ],
